@@ -1,7 +1,5 @@
-﻿using OpenQA.Selenium;
-using SpecFlowDemoProject1.Drivers;
+﻿using SpecFlowDemoProject1.Drivers;
 using SpecFlowDemoProject1.Pages;
-using TechTalk.SpecFlow;
 
 namespace SpecFlowDemoProject1.Hooks
 {

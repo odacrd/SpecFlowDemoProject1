@@ -1,5 +1,3 @@
-using System;
-using TechTalk.SpecFlow.Assist;
 using SpecFlowDemoProject1.Pages;
 using SpecFlowDemoProject1.Drivers;
 
